@@ -26,9 +26,9 @@ wp2anchor imports:
 
 Contact
 ===
-####Original author: Sam Hellawell
+#### Original author: Sam Hellawell
 Any issues or queries, the best way to contact me is to email me at [sshellawell@gmail.com](mailto:sshellawell@gmail.com), tweet me [@Beckiwoosh](http://twitter.com/Beckiwoosh) or add me on Skype: *becki.ness*.
 
-####Modifications: neverbot
+#### Modifications: neverbot
 [@neverbot](http://github.com/neverbot) here in github and
 [@neverbot](http://twitter.com/neverbot) in twitter.
